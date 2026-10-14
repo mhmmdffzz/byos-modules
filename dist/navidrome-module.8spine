@@ -64,7 +64,3 @@ const NAVIDROME_MODULE = {
 };
 
 return NAVIDROME_MODULE;
-                            }
-                        })
-                }
-}
